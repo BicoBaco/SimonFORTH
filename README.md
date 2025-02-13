@@ -1,4 +1,7 @@
 # SimonFORTH
+
+University project for the "Embedded System" course (MS in Computer Engineering, Università degli Studi di Palermo @unipa)
+
 Implementation of the electronic game “Simon” with bare-metal programming on Raspberry Pi 3B, using the FORTH language and basic electronic components.
 
 The original Simon game consists of four buttons that light up, each of a different colour for visual feedback and paired with a musical note for sound feedback. 
